@@ -4,6 +4,11 @@
   grid-column-gap: 50px;
 }
 
+.grid-item {
+  font-family: monospace;
+  font-size: 40 px;
+}
+  
 
 body {
   background-color: powderblue;
