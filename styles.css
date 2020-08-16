@@ -22,13 +22,14 @@ src: url('/Format_1452.woff') format('woff');
   
 
 body {
-  background-color: dodgerblue;
+  background-color: #1E90FF;
   font-family: Format;
   font-size: 40px;
 }
 h1 {
   position: centered;
   font-family: Format;
+  font-size: 40px;
   color: white;
 }
 p {
