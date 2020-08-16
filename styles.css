@@ -18,6 +18,7 @@ src: url('/Format_1452.woff') format('woff');
 .grid-item {
   font-family: CirrusCumulus;
   font-size: 20px;
+  background-image: url("/window_sample.png");
 }
   
 
