@@ -14,6 +14,8 @@ body {
   background-color: #1E90FF;
   font-family: Format;
   font-size: 40px;
+  
+}
 
 .grid-container {
   display: grid;
