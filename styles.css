@@ -23,7 +23,7 @@ src: url('/Format_1452.woff') format('woff');
 
 body {
   background-color: dodgerblue;
-  font-family: monospace;
+  font-family: Format;
   font-size: 40px;
 }
 h1 {
