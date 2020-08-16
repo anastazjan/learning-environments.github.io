@@ -6,6 +6,8 @@
 
 body {
   background-color: powderblue;
+  font-family: monospace;
+  font-size: 40 px;
 }
 h1 {
   position: centered;
