@@ -26,7 +26,7 @@ body {
 .grid-item {
   font-family: CirrusCumulus;
   font-size: 20px;
-  background-image: url("/window_sample.png");
+  background-image: url("window_sample.png");
 }
   
 
