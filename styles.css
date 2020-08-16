@@ -3,6 +3,10 @@ font-family: 'CirrusCumulus';
 src: url('/CirrusCumulus.woff') format('woff');
 }
 
+@font-face {
+font-family: 'Format';
+src: url('/Format_1452.woff') format('woff');
+}
 
 
 .grid-container {
@@ -24,7 +28,8 @@ body {
 }
 h1 {
   position: centered;
-  color: blue;
+  font-family: Format;
+  color: white;
 }
 p {
   position: centered;
