@@ -62,6 +62,7 @@ body {
   position: fixed;
   left: 100px;
   top: 300px;
+  overflow: scroll;
   z-index: 10;
 }
 
