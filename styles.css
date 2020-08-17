@@ -34,15 +34,16 @@ body {
 }
 
 .grid-item { 
-  
-  background-image: url("window_sample.png");
+  border-style: solid;
+  border-color: #0058ee;
+  border-width: 30px 5px 5px 5px;
   background-position:left top;
   background-repeat: no-repeat;
   background-size: cover;
 }
   
 .grid-typo {
-  font-family: CirrusCumulus;
+  font-family: Arial;
   font-size: 20px;
   padding: 20px;
 }
