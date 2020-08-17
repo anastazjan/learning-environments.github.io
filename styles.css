@@ -42,6 +42,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   overflow: scroll;
+  height: 100px;
 }
   
 .grid-typo {
