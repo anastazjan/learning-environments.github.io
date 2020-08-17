@@ -33,13 +33,18 @@ body {
   grid-gap: 50px;
 }
 
-.grid-item {
-  font-family: CirrusCumulus;
-  font-size: 20px;
+.grid-item 
+  
   background-image: url("window_sample.png");
   background-position:left top;
   background-repeat: no-repeat;
   background-size: cover;
+}
+  
+.grid-typo {
+  font-family: CirrusCumulus;
+  font-size: 20px;
+  padding: 20px;
 }
   
 
