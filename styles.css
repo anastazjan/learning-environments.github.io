@@ -33,7 +33,7 @@ body {
   grid-gap: 50px;
 }
 
-.grid-item 
+.grid-item { 
   
   background-image: url("window_sample.png");
   background-position:left top;
