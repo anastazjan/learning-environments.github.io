@@ -146,6 +146,38 @@ body {
   z-index: 20;
 }
 
+.add-window-6 {
+  border-style: solid;
+  border-color: #0058ee;
+  border-radius: 5px;
+  border-width: 15px 1px 1px 1px;
+  background-color: white;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  left: 510px;
+  top: 890px;
+  overflow: hidden;
+  z-index: 20;
+}
+
+
+.add-window-7 {
+  border-style: solid;
+  border-color: #0058ee;
+  border-radius: 5px;
+  border-width: 15px 1px 1px 1px;
+  background-color: white;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  left: 1220px;
+  top: 140px;
+  overflow: hidden;
+  z-index: 20;
+}
 
 h1 {
   position: centered;
