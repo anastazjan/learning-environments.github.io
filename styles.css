@@ -41,6 +41,7 @@ body {
   border-width: 30px 2px 2px 2px;
   background-position:left top;
   background-repeat: no-repeat;
+  background-color: white;
   background-size: cover;
   overflow: scroll;
   height: 100px;
