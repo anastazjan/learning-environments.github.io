@@ -51,6 +51,10 @@ body {
   font-size: 30px;
   padding: 20px;
 }
+
+.typo-2{
+  font-size: 60px;
+}
   
 .add-window-1 {
   border-style: solid;
