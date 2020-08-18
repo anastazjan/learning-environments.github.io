@@ -55,6 +55,10 @@ body {
 .typo-2{
   font-size: 60px;
 }
+
+.typo-3{
+  font-size: 12px;
+}
   
 .add-window-1 {
   border-style: solid;
@@ -62,6 +66,7 @@ body {
   border-radius: 5px;
   border-width: 15px 1px 1px 1px;
   background-color: white;
+  text-align: center;
   width: 40px;
   height: 40px;
   position: fixed;
@@ -77,6 +82,7 @@ body {
   border-radius: 5px;
   border-width: 15px 1px 1px 1px;
   background-color: white;
+  text-align: center;
   width: 60px;
   height: 60px;
   position: fixed;
@@ -97,6 +103,7 @@ body {
   position: fixed;
   left: 1140px;
   top: 120px;
+  text-align: center;
   overflow: scroll;
   z-index: 10;
 }
